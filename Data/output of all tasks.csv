@@ -1,0 +1,15 @@
+﻿OUTPUT OF ALL TASKS,,,,,,,,,,,,,,,10-02-2024,,,
+,,,,,,,,,,,,,,,,,,
+TASK-01,,,,,,,,,,,,,,,,,,
+input_1,input_2,input_3,input_4,input_5,input_6,input_7,input_8,input_9,input_10,input_11,input_12,input_13,input_14,input_15,input_16,input_17,input_18,predicted_cluster
+40,48,66,59,85,95,42,65,71,81,61,59,72,50,61,94,41,39,1
+,,,,,,,,,,,,,,,,,,
+TASK-02,,,,,,,,,,,,,,,,,,
+ACCURACY,,,,,,,K NEAREST NEIGHBOURS,,,98.34036186,,,,,,,,
+,,,,,,,RANDOM FOREST,,,98.39477622,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+TASK-03,,,,,,,,,,,,,,,,,,
+,,,,,,,,date,pick_activities,place_activities,inside_duration,outside_duration,,,,,,
+,,,,,,,,16-01-2024,37,39,11:59:00,0,,,,,,
+,,,,,,,,17-01-2024,40,40,11:12:00,0,,,,,,
+,,,,,,,,18-01-2024,10,9,11:42:50,10:10:50,,,,,,
