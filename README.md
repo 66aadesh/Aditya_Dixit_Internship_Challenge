@@ -1,7 +1,7 @@
 # Resolute AI Task - ML Challenge
 
 ## Description
-This repository contains the Jupyter Notebook file (`resolute_ai_task.ipynb`) for the Resolute AI Task ML Challenge.
+This repository contains the Jupyter Notebook file for the Resolute AI Task ML Challenge.
 The ML challenge task aims to solve a set of tasks to demonstrate proficiency in machine learning and data analysis.
 It is being done as part of the application process for an internship at Resolute AI.
 
@@ -10,7 +10,6 @@ To run this notebook, you will need the following dependencies:
 - Python 3
 - pandas
 - numpy
-- matplotlib
 - scikit-learn
 
 You can install the required packages using pip.
